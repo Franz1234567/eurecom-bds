@@ -84,6 +84,11 @@ video {
   border: 0;
   font-size: 100%;
   vertical-align: baseline;
+  
+}
+div.header-container {
+  background-color: #f0f8ff;
+  border-top: 10px solid #f0f8ff;;
 }
 /* HTML5 display-role reset for older browsers */
 article,
@@ -98,6 +103,7 @@ menu,
 nav,
 section {
   display: block;
+  
 }
 body {
   line-height: 1;
@@ -106,6 +112,8 @@ ol,
 ul {
   list-style: none;
 }
+
+
 blockquote,
 q {
   quotes: none;

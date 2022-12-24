@@ -3,7 +3,7 @@
   import { siteTitle } from "$lib/constants";
   export let title, description;
   const seo = {
-    title: `${title} | ${siteTitle}`,
+    title: `${siteTitle}`,
     description,
   };
 </script>

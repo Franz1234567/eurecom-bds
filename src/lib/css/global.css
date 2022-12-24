@@ -36,7 +36,7 @@ body {
 
 p {
   color: var(--text-color);
-  font-size: 20px;
+  font-size: 18px;
   margin-bottom: 1.2rem;
 }
 
@@ -118,6 +118,7 @@ pre {
 main,
 .sidebar {
   transition-duration: 500ms;
+  
 }
 
 pre {
@@ -149,6 +150,12 @@ hr {
   border: 0;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #fff;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
 }
 
 .container {

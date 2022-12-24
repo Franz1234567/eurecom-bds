@@ -4,7 +4,11 @@ export const menu = [
     url: "/",
   },
   {
-    title: "Categories",
+    title: "Planning",
+    url: "/planning",
+  },
+  {
+    title: "Sports",
     url: "/categories",
   },
   {
@@ -15,15 +19,11 @@ export const menu = [
     title: "Contact",
     url: "/contact",
   },
-  {
-    title: "Github",
-    url: "https://github.com/sharu725/yuyutsu",
-    target: "_blank",
-  },
+  
 ];
 
-export const siteTitle = "Yuyutsu";
-export const siteDescription = "A minimal Sveltekit theme with a sidebar.";
+export const siteTitle = "BDS EURECOM";
+export const siteDescription = "Website for EURECOM's Sports association";
 
 export const footerText =
   /* <Current Year> is already prefixed */ "All rights reserved";

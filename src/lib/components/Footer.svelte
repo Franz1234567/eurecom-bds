@@ -4,7 +4,7 @@
   const year = date.getFullYear();
 </script>
 
-<p>© {year}. {footerText}</p>
+<p>© BDS EURECOM {year}. {footerText}</p>
 
 <style>
   p {

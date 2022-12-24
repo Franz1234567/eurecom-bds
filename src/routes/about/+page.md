@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-description: Yuyutsu was the only son of Dhritarashtra who survived the Kurukshetra war.
+description: Association and team description
 ---
 
-Yuyutsu was the only son of Dhritarashtra who survived the Kurukshetra war.
+We are a team of 6 students determined to allow EURECOM students to train and enjoy sports on the Côte d'Azur.
 
 <a target="_blank" href="https://github.com/sharu725/yuyutsu">
 <button>Star this project</button>
