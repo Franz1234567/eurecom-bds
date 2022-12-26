@@ -4,15 +4,15 @@
   export let data;
   const { posts, title } = data;
 </script>
-
 <h1>Category: {title}</h1>
 {#each posts as post}
   <PostItem {post} />
+  
 {/each}
 
 <svelte:head>
   <title>{title} | {siteTitle}</title>
-  <meta name="description" content="Categories are found here" />
+  <meta name="description" content="Sports clubs are found here" />
 </svelte:head>
 
 <style>

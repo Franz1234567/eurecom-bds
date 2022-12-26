@@ -2,7 +2,6 @@
 layout: page
 title: Home 
 description: "Website for EURECOM's Sports association"
-image: ./IMG_6891.jpg
 ---
 
 <script>
@@ -17,14 +16,16 @@ image: ./IMG_6891.jpg
   $: ({ posts } = data)
 </script>
 <p> Welcome! This is the website of the <b>Bureau des Sports</b> of EURECOM.
-<a href="https://eurecom.fr/">EURECOM</a> is a french engineering school based in Sophia Antipolis, France.
+<a href="https://eurecom.fr/">EURECOM</a> is an engineering school based in Sophia Antipolis, France.
 </p>
 
 <img title="The team minus one" height="350px" src="https://ahmedg.fr/assets/IMG_6891.JPG">
 
-<p> Find out more about the planning on the <a href="/planning">Planning</a> page. </p>
+<br>
+<p> Planning can be found <a href="/planning">here</a>.</p>
 
-<h3> Partners </h3>
+<h3> News </h3>
+<p> More coming soon...</p>
 <!-- {#each $paginatedPosts as post}
   <PostItem {post} />
 {/each} -->

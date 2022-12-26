@@ -6,8 +6,7 @@
 
 <div class="post-item">
   <a data-sveltekit-prefetch class="title" href="/posts/{slug}"
-    ><h2>{title}</h2></a
-  >
+    ><h2>{title}</h2></a>
   <img width="800" height="300" src={image} alt={title} />
   <Categories {categories} />
   <p>{description}</p>

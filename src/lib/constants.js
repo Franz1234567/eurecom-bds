@@ -9,7 +9,7 @@ export const menu = [
   },
   {
     title: "Sports",
-    url: "/categories",
+    url: "/sports",
   },
   {
     title: "About",

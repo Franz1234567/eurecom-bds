@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Categories
-description: All categories in one place
+title: Sports
+description: All sports in one place
 ---
 
 <script>
@@ -12,8 +12,8 @@ description: All categories in one place
 
 {#each groupedPosts as [category, posts]}
 
+
   <div class="category-container">
-    <h2>{category}:</h2>
     <div class="grid">
       {#each posts as post}
         <PostItem {post} />
@@ -24,7 +24,6 @@ description: All categories in one place
 
 <style>
   .category-container {
-    border: 1px solid var(--bg-light);
     padding: 1rem;
     margin-bottom: 1.5rem;
   }
