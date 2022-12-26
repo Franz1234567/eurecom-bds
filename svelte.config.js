@@ -3,15 +3,18 @@ import mdsvexConfig from "./mdsvex.config.js";
 import preprocess from "svelte-preprocess";
 import vercel from "@sveltejs/adapter-vercel";
 // const dev = process.env.NODE_ENV === "development";
+import adapter from '@sveltejs/adapter-netlify';
+
+
 
 const config = {
   extensions: [".svelte", ...mdsvexConfig.extensions],
 
   kit: {
-    adapter: vercel(),
-    // Enable below line and change /yuyutsu to /<your-repo-name> to host the site on github pages
+    adapter: adapter()
+    // Enable below line to host the site on github pages
     // paths: {
-    //   base: dev ? "" : "/yuyutsu",
+    //   base: dev ? "" : "/eurecom-bds",
     // },
     // appDir: "app",
   },
