@@ -24,7 +24,7 @@ description: "Website for EURECOM's Sports association"
 <br>
 <p> Planning can be found <a href="/planning">here</a>.</p>
 
-<h3> News </h3>
+<h3><i class="fa-solid fa-newspaper"></i> News </h3>
 <p> More coming soon...</p>
 <!-- {#each $paginatedPosts as post}
   <PostItem {post} />
