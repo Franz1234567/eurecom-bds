@@ -25,9 +25,8 @@ description: "Website for EURECOM's Sports association"
 <p> Planning can be found <a href="/planning">here</a>.</p>
 
 <h3><i class="fa-solid fa-newspaper"></i> News </h3>
-<p> More coming soon...</p>
-<!-- {#each $paginatedPosts as post}
-  <PostItem {post} />
-{/each} -->
+<i style="opacity: 50%;">20/01/2023 </i><a href="/refund"> Sports refund </a>
 
-<!-- <Pagination items={posts} itemsPerPage={2} /> -->
+
+<br>
+<div style="padding-bottom: 3em;"></div>
