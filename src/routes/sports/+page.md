@@ -30,7 +30,7 @@ description: All sports in one place
   .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 2rem;
+    grid-gap: 4rem;
   }
   h2 {
     text-transform: capitalize;

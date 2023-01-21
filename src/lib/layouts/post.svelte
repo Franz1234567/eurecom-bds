@@ -18,7 +18,7 @@
 <Seo {...seo} />
 
 <h1>{title}</h1>
-<p class="date">{date}</p>
+<!-- <p class="date">{date}</p> -->
 <Categories {categories} />
 <img width="800" height="300" src={image} alt={title} />
 <slot />
