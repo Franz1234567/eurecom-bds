@@ -9,7 +9,7 @@ image:
 
 # Sports refund
 
-The Bureau des Sports proposes to refund a sports activity that does not have a dedicated and regular practice session at EURECOM (up to 50€).
+The Bureau des Sports proposes to refund a **sports activity** (lesson or subscription) that does not have a dedicated and regular practice session at EURECOM (up to 50€).
 
 This will be done by periods, first period ends on the 10th of February 2023 and the second ends on the 30th of May 2023.
 
