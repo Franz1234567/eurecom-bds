@@ -3,7 +3,7 @@ layout: post
 title: Squash
 categories:
     - clubs
-description: aaaaaaaaaaa 
+description:
 image: https://pps.whatsapp.net/v/t61.24694-24/308143526_1532578560517628_1862923078481873121_n.jpg?ccb=11-4&oh=01_AdQHTe9yq6WWQv8_AcIyWQGP46cwstKwR_I_Q18hH311Aw&oe=63D94B77
 ---
 # EURECOM Squash Club
