@@ -23,7 +23,7 @@ Some of us are playing other days at the evening, contact us for further informa
 
 Have fun together, release any pent-up frustration by smashing balls on the walls (yeah that's one heck of an advantage beacuse squash is played in a closed court 😁).  
 At the same time it's a very physical but rewarding sports with plenty of energy spent chasing the ball, especially when our supervisor has decided to make you run 😉
-
+idzefnioznfonsrfonfo
 #### Equipment
 The supervisor provides rackets so we don't have to rent any and the squash club provides sport shoes for free, so the only thing you need is some sport gear.
 
