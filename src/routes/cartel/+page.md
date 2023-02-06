@@ -10,7 +10,7 @@ image:
 # Cartel 
 
 The <a href="https://cartel-ales.fr/index.html" target="_blank">Cartel</a> is a sports competition held every year by the Mines engineering school group. Over 1000 students will compete on 12 different sports, mixed and non mixed, following this spreadsheet:  
-![Cartel sports and team composition](../../static/carteeel.png)  
+![Cartel sports and team composition](../../carteeel.png)  
 This year, EURECOM was invited by the Mines d'Alès engineering school, the host of this edition. Alès is located next to Montpellier, 3 hours away from EURECOM and the event will take place from the 27th of April to the 30th.
 <p><b><a href="https://www.youtube.com/watch?v=x8UEKiA4sYc" target="_blank">Sports</a> </b>will take place during the day and <b><a href="https://www.youtube.com/watch?v=wRyIInWDC60" target="_blank">parties</a> </b>will take place during the night.</p>
 
