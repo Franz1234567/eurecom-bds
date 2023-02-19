@@ -26,7 +26,7 @@ The price for the participation is 85€ (it includes housing, food and transpor
 
 If you have not paid the first installment by the 26th of February 2023, **you will not be registered for the Cartel**.  
   
-**Link to the first installment**: *Sunday 19/02/2023, 3PM, Paris time*.  
+**Link to the first installment**: [Here](https://collecte.io/cartel-des-mines)
 **Link to the second installment**: *Sunday 19/03/2023, 3PM, Paris time*.  
   
 We tried to give as much time as possible so that people can form teams before paying for the participation.  
