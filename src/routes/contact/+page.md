@@ -8,7 +8,7 @@ description: We would like to hear from you.
 
 <i class="fa-solid fa-envelope"></i> <b>E-mail:</b> bds[at]eurecom[dot]fr
 <br>
-<i class="fa-brands fa-instagram"></i> Coming soon...
+<i class="fa-brands fa-instagram"></i> <a href="https://instagram.com/eurecom_bds" target="_blank">eurecom_bds</a>
 
 <br>
 <i class="fa-solid fa-location-dot"></i>

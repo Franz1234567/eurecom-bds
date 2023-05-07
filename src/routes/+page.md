@@ -25,6 +25,7 @@ description: "Website for EURECOM's Sports association"
 <p> Planning can be found <a href="/planning">here</a>.</p>
 
 <h3><i class="fa-solid fa-newspaper"></i> News </h3>
+<i style="opacity: 50%;">07/05/2023 </i><a href="/sophia-games"> Jeux de Sophia </a> <br>
 <i style="opacity: 50%;">06/02/2023 </i><a href="/cartel"> Cartel registration </a>
 <br>
 <i style="opacity: 50%;">20/01/2023 </i><a href="/refund"> Sports refund </a>
