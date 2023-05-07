@@ -33,7 +33,7 @@ For supporters, an online shop will be set up at *coming soon* to buy apparel.
 The registration is individual. EURECOM students must choose the company "EURECOM Student".  
 To join a team, participants must contact the captain of the team to get the password for the team.  
 Price for "classic" sports/activities is 15€, for "special" sports/activities the price depends on the sport.
-Registrations have to be made on the Jeux de Sophia's website ([jeuxdesophia.com](https://jeuxdesophia.com)).  
+Registrations have to be made on the Jeux de Sophia's website ([jeuxdesophia.com](https://jeuxdesophia.com)). A medical certificate is required to compete.
 Once done, add your name on the EURECOM sheet ([here](https://docs.google.com/spreadsheets/d/1adI6R83TdJds0BWbaXUi2iRdy429m7iZPZsB0iPOH3U/edit#gid=0)) in your sport of choice.
 
 
