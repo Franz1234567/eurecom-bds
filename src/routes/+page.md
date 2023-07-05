@@ -19,7 +19,7 @@ description: "Website for EURECOM's Sports association"
 <a href="https://eurecom.fr/">EURECOM</a> is an engineering school based in Sophia Antipolis, France.
 </p>
 
-<img title="The team minus one" height="350px" src="../../IMG_6891.JPG">
+<img title="The team minus one" height="350px" src="">
 
 <br>
 <p> Planning can be found <a href="/planning">here</a>.</p>
