@@ -78,7 +78,7 @@ You can join the club's WhatsApp group on <a href="https://chat.whatsapp.com/KQh
 
 #### Volleyball club
 EURECOM Volleyball is EURECOM's volleyball club. In reality it's rather beach volleyball, for the lack of access to a gymnasium (for now).       
-The club plays either on Thursday or during the weekend at the public beach volleyball court near the <a href="https://www.google.fr/maps/place/Stade+du+Fort+Carr%C3%A9,+60+Av.+du+11+Novembre,+06600+Antibes/@43.5913565,7.1241644,17.19z/data=!4m6!3m5!1s0x12cdd50d8e00eec9:0x9882afa2d1211a4c!8m2!3d43.5912808!4d7.125662!16zL20vMGJjN3pm?entry=ttu" target="_blank">Stade du Fort Carré d'Antibes</a>. The club has multiple balls suited for beach, and also an outdoor court that can be installed (this <a href="https://www.decathlon.fr/p/set-de-beach-volley-dimensions-officielles-bv900-jaune/_/R-p-9133?mc=8408762" target="_blank">one</a>)
+The club plays either on Thursday or during the weekend at the public beach volleyball court near the <a href="https://www.google.fr/maps/place/Stade+du+Fort+Carr%C3%A9,+60+Av.+du+11+Novembre,+06600+Antibes/@43.5913565,7.1241644,17.19z/data=!4m6!3m5!1s0x12cdd50d8e00eec9:0x9882afa2d1211a4c!8m2!3d43.5912808!4d7.125662!16zL20vMGJjN3pm?entry=ttu" target="_blank">Stade du Fort Carré d'Antibes</a>. The club has multiple balls suited for beach, and also an outdoor court that can be installed (this <a href="https://www.decathlon.fr/p/set-de-beach-volley-dimensions-officielles-bv900-jaune/_/R-p-9133?mc=8408762" target="_blank">one</a>).      
 You can join the club's WhatsApp group on <a href="https://chat.whatsapp.com/K0td5tTqlSMH19PiXXGLdG" target="_blank">this link</a>. 
 
 If you have any questions, don't hestitate to contact us at bds@eurecom.fr
