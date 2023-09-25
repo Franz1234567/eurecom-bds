@@ -4,7 +4,7 @@ title: Climbing
 categories:
     - clubs
 description:
-image: https://bde.eurecom.fr/images/clubs/climbing.jpg
+image: /climbing.jpg
 ---
 # EUREClimb
 
