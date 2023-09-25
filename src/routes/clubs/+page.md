@@ -36,6 +36,13 @@ EURECOM Squash Club is the squash club of EURECOM. The sessions are usually on T
 The date for the first session <b>will be announced soon</b>.   
 For more information, check out the <a href=/posts/squash> club's page </a>
 
+#### Running club
+RUNECOM is EURECOM's running club. The club runs around 2 to 3 times a week from 5 to 10km in groups based on pace in Antibes and Juan les Pins. There is no specific schedule : if you want to go for a run just send a message on the group! There will likely always be someone to run with you!  
+The clubs also trains for competitions from up to 3 times a week with training plans based on level and objective. The first one will be <b>"Courir pour une fleur"</b> in Antibes in October.    
+The goal is to be part of the <b>semi-marathon of nice in April.</b>    
+For more information, join the <a href="https://chat.whatsapp.com/IT2raKGyjwL6FTVr8Strc5" target="_blank">WhatsApp group</a> or reach out to the club supervisor [Théo](<mailto:bonnet@eurecom.fr>).
+
+
 #### Football club
 EURECOM Foot is the football club of EURECOM (not American football 🙄). The club usually plays every Thursday from 2pm to 5-6pm at the <a href="https://www.google.fr/maps/place/Stade+du+Fort+Carr%C3%A9,+60+Av.+du+11+Novembre,+06600+Antibes/@43.5913565,7.1241644,17.19z/data=!4m6!3m5!1s0x12cdd50d8e00eec9:0x9882afa2d1211a4c!8m2!3d43.5912808!4d7.125662!16zL20vMGJjN3pm?entry=ttu" target="_blank">Stade du Fort Carré d'Antibes</a>.   
 For more information, join the <a href="https://chat.whatsapp.com/CMfvgHNPRfZ42nBmBliwde" target="_blank">WhatsApp group</a> or reach out to the club supervisor [Yoan](<mailto:houngnib@eurecom.fr>).     
@@ -43,17 +50,6 @@ For more information, join the <a href="https://chat.whatsapp.com/CMfvgHNPRfZ42n
 #### Basketball club
 Basket EURECOM is the basketball club of EURECOM. The club usually plays on Sundays at the <a href="https://www.google.fr/maps/place/Stade+Foch/@43.5777781,7.1188976,18.32z/data=!4m6!3m5!1s0x12cdd565f1cc6bd9:0x995b6de1c1cdc9b4!8m2!3d43.5776076!4d7.1204709!16s%2Fg%2F11fx7t6vrz?entry=ttu">Stade Foch playgrounds</a> in Antibes.  
 For more information, join the <a href="https://chat.whatsapp.com/KkWIvKknHEu3Vm89TvRM7t" target="_blank">WhatsApp group</a> or reach out to the club supervisor (and BDS president) [Hichem](<mailto:khettab@eurecom.fr>).  
-
-#### Sailing club
-EURECOM Sailing is the sailing club of EURECOM. The club usually organizes one sailing session each semester, with around 20 spots available for each session.  
-For more information, join the <a href="https://chat.whatsapp.com/IDihettKmxML5A3kPzJiol" target="_blank"> WhatsApp Group </a> or reach out to the club supervisor [Gaetan](<mailto:plisson@eurecom.fr>).
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-<h5>The clubs that will be presented below are all <b> looking for a supervisor</b>.</h5>
 
 
 #### Hiking club
@@ -64,16 +60,25 @@ EUREHike is EURECOM's hiking club. The club usually goes hiking on Saturday, tho
   <img src="hiking3.jpg" alt="Image 3"  style="flex 1; max-width: 33%">
 </div>
 
-You can join the club's WhatsApp group on <a href="https://chat.whatsapp.com/LUX7JH9BpEfDvb598sEOyG" target="_blank">this link</a>. 
+For more information, join the <a href="https://chat.whatsapp.com/LUX7JH9BpEfDvb598sEOyG" target="_blank">WhatsApp group</a> or reach out to the club supervisor [Alban](mailto:sarrazin@eurecom.fr).
+
+#### Sailing club
+EURECOM Sailing is the sailing club of EURECOM. The club usually organizes one sailing session each semester, with around 20 spots available for each session.  
+For more information, join the <a href="https://chat.whatsapp.com/IDihettKmxML5A3kPzJiol" target="_blank"> WhatsApp Group </a> or reach out to the club supervisor [Gaetan](<mailto:plisson@eurecom.fr>).
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<h5>The clubs that will be presented below are all <b> looking for a supervisor</b>.</h5>
+
 
 #### Tennis club
 EURECOM Tennis is EURECOM's tennis club (obviously). The club used to play at the <a href="https://www.google.com/maps/place/Tennis+Club+d'Antibes+%26+Padel/@43.5906006,7.1178119,17z/data=!3m1!4b1!4m6!3m5!1s0x12cdd515aa3979a7:0x5095144c3a72eb7a!8m2!3d43.5906006!4d7.1178119!16s%2Fg%2F1wz3b6cq?entry=ttu" target="_blank">Tennis Club d'Antibes </a> on Thursday.     
 You can join the club's WhatsApp group on <a href="https://chat.whatsapp.com/JitLAVkrv9X6x4wfCqzw5q" target="_blank">this link</a>. 
-
-
-#### Running club
-Running Squad✨✨ is EURECOM's running club. The club didn't have any specific schedule, people who wanted to run just proposed on the group spontaneously. Sometimes in the evening around Antibes, sometimes during lunch break in the woods near the school.     
-You can join the club's WhatsApp group on <a href="https://chat.whatsapp.com/KQhYakTJrXm64iU2iJpVvX" target="_blank">this link</a>. 
 
 
 #### Volleyball club
