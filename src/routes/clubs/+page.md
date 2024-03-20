@@ -18,7 +18,9 @@ As of today, the sports that have a club at EURECOM are :
 — Tennis    
 — Running   
 — Hiking    
-— Sailing   
+— Sailing 
+— Swimming
+— Ping pong 
 
 Because some students finished their stay at EURECOM 😔, many clubs are now missing a supervisor, so if you're interested in filling that role, please reach out to [Guillaume Ung](<mailto:ung@eurecom.fr>) <i class="fa-solid fa-envelope"></i>, the responsible for clubs or directly at : bds@eurecom.fr        
 And of course, if you would like to create a new club for a new sport, feel free to reach out to [Guillaume Ung](<mailto:ung@eurecom.fr>) <i class="fa-solid fa-envelope"></i>.
@@ -66,7 +68,8 @@ For more information, join the <a href="https://chat.whatsapp.com/LUX7JH9BpEfDvb
 EURECOM Sailing is the sailing club of EURECOM. The club usually organizes one sailing session each semester, with around 20 spots available for each session.  
 For more information, join the <a href="https://chat.whatsapp.com/IDihettKmxML5A3kPzJiol" target="_blank"> WhatsApp Group </a> or reach out to the club supervisor [Gaetan](<mailto:plisson@eurecom.fr>).
 
-
+#### Swimming club
+EURECOM Swimming is the swimming club of EURECOM. The club usually organizes swimming sessions on Wednesdays and Sundays at <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x12cdd51218dfee7f:0x16f5e212bd0eda57?sa=X&ved=1t:8290&ictx=111">Stade Nautique d'Antibes</a>.
 
 &nbsp;
 &nbsp;
