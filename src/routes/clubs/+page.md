@@ -7,7 +7,9 @@ categories:
 image: 
 ---
 
-# Sports clubs in EURECOM
+This is a test.
+
+# Sports clubs in EURECOM 
 
 As of today, the sports that have a club at EURECOM are :   
 — Climbing  
